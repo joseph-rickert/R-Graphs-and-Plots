@@ -1,10 +1,10 @@
 ---
-title: "R's 3 Plotting Systems"
+title: "R's 3 Graphics Systems"
 output: html_notebook
 ---
 
 
-There are three major plotting systems in R:
+There are three major graphics systems in R:
 1 Base graphics
 2 Lattice graphics
 3 ggplot2 
